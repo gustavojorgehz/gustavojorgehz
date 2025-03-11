@@ -1,5 +1,5 @@
 <!--Valeu @GabrielRicardo salvou muito -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+my+name+is+Gustavo+Jorge%F0%9F%91%8B;Be+Welcome👍" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+my+name+is+Gustavo+Jorge" alt="Typing SVG" />
 
 <img align="center" alt="C" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
